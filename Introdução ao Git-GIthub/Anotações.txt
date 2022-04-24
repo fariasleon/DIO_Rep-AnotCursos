@@ -1,0 +1,58 @@
+Comando importantes
+======================================================
+Terminais Windows e Linux
+
+CMD 	:	 	abrir shell ou bash 
+Dir	: 		diretório
+Ls(linux): 		listar arquivos
+Cd	: 		navegando pastas
+				- cd tasks
+Cd.. 	: 		retrocedendo um nível
+Cls/clear(ctrl l): 	limpar terminar 
+Tecla tab : 		autopreenchimento 
+Mkdir “nome do arquivo criado ” :  criando pasta,diretorio
+Echo : 			printa no terminal algo que foi digitado
+>    : 			redirecionador de fluxo, usando a resposta do echo para jogar em algum arquivo
+				-Echo hello > hello.txt 
+del  ; 			deleta os arquivos do repositório
+rmdir; 			deleta o repositório
+pwm;			mostra histórico
+
+Linux
+	- rm	; 		deletando	
+	- rf	; 		apagando as pastas no linux
+
+====================================================== 
+-Comando para criação de chave github pelo gibash
+
+ssh-keygen -t ed25519 -C ‘email’
+======================================================
+
+-Config o nickname e name de quem está alterando o repositório
+Git config --global user.email “email” -> email 
+Git config --global user.name “name”  -> nome
+
+=====================================================
+-Criando repositorio 
+	Git init
+-verificando status do arq
+	Git status
+-Git add / Git add* = movendo arquivos untrack para o staging
+
+-add a origem em que estamos enviando os arquivos
+	- git remote add origin “link url do repo”
+- printa as listas de repo remotos cadastrados
+	- git remote -v
+- Empurra a versão do repo local para repo remoto
+	- git push origin master
+
+-Puxa a versão que está com o commit mais atual e mescla com a sua versão 
+	- git pull origin master
+
+-clonar cod do repositório com url ssh/https(Dependendo da situação)
+ 	- git clone 
+ 
+
+======================================================
+FLAGS GIT
+LS -A 	mostra Arquivos ocultos	
