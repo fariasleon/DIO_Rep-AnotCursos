@@ -2,4 +2,4 @@
 Repositório com anotações importantes de cada curso da DIO
 
 ## Links de interesse 
-[Sintaxe Mardown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Markdown](https://www.markdownguide.org/basic-syntax/)
