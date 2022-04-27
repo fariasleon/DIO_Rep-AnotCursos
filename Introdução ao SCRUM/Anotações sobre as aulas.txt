@@ -1,0 +1,62 @@
+INTRODUÇÃO AO SCRUM - Framework de gerenciamento de projetos ágeis
+
+ - Gestão de projetos: 
+	-Tradicional Waterfall: só avança quando uma fase está completa	
+				Escopo preditivo
+				Cliente só vê o software funcionando na fase final do projeto
+				Resistente a mudanças
+	
+	-Ágil: 			Software é contruído por partes
+				Escopo def. ao longo do projeto
+				Controle por funcionalidades e entregas
+				Cliente vê software funcionando na parte inicial 
+				Mudaças constantes de acordo com o feedback
+
+	
+ - Pilares SCRUM:
+		-Transparência
+		-Adaptação
+		-Inspeção	
+
+ - Papeis e responsabilidades do SCRUM TEAM:
+		-Product Owner(PO)
+			-ñ é comitê
+			-Def. as funcionalidades do software
+			-representante da área de negócios
+		-ScrumMaster(SM)
+		-Desenvolvedores(DEVS)
+
+ - Pontos importantes:
+		-TIME BOX: tempo max. para fazer cerimônia ou sprint
+		-Daily Meetings: reuniões de 15 minutos diárias
+				-3 questions:				
+					-Whay i did yesterday?
+					-what ill do today?
+					-what in my way?	
+		-Release pleaning(RP):liberção ou lançamento do software,há dois tipos.	
+					-RP mult. squads: vários times fazendo coisas distintas mas que ao final
+							  das sprints devem se agrupar
+					-RP de projeto:   Possui uma demanda muito grande e será necessário quebrar entre
+							  vários sprints
+		-Retrospectiva: após a conclusão da sprint
+				-Devs e SM
+		-Refinamento: aumentar o entendimento da demanda e melhorar a qualidade da entrega
+				-Ocorre uma passo antes do planing
+		-Review: Devs Sprint
+				-Ver. se a demanda agrega valor ao negócio
+					
+		-Product BACKLOG: 
+			-épicos: incremento sem muito detalhadamento
+			   ^Estória: detalhadamentos dos épicos
+				     tarefa escrita em nível de negócios	
+				^Tasks:
+			
+		 - Critérios de aceite: Lista de critérios que precisam ser alcançados p/ que o userSstory
+					atenda aos requisitos.
+					-tem o objeto: Ajudar o PO a detalhar em alto nível o que é necesário
+					       
+		 - Stakeholder: pessoa ou grupo que legitima as ações de uma organização e que tem 
+				papel direto ou indireto na gestão de resultados
+		
+								
+
